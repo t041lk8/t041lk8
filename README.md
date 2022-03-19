@@ -10,4 +10,32 @@
   </div>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=9BE9FF&center=true&vCenter=true&width=1250&height=100&lines=Ilya+Zhbanov's+GitHub;Beginner+backend+programmer;Beginner+ML%26DL+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=9BE9FF&center=true&vCenter=true&width=1250&height=100&lines=Ilya+Zhbanov's+GitHub;Beginner+backend+developer;Beginner+ML%26DL+engineer)](https://git.io/typing-svg)
+
+---
+### About Me :
+* :man_technologist: Beginner software developer 
+* :man_student: MAI student 
+* :weight_lifting_man: Practise in backend and ML&DL tools
+* :red_car: Dream of developing self-driving cars
+---
+### :hammer_and_wrench: Languages and Tools (some are just being studied) :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title = "CPlusPlus" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title = "Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title = "Jupyter" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title = "Numpy" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title = "Pandas" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title = "MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://dildehdrg5ol8.cloudfront.net/images/%252540catboost-edd4f133aa13d952f3f4b3fca40b9182.png" title = "CatBoost" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title = "VisualStudio" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VScode" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title = "Git" width="60" height="60"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t041lk8&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
