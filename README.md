@@ -36,6 +36,6 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats :fire: :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t041lk8&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
