@@ -10,7 +10,7 @@
   </div>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=9BE9FF&center=true&vCenter=true&width=1250&height=100&lines=Ilya+Zhbanov's+GitHub;Beginner+backend+developer;Beginner+ML%26DL+engineer)](https://git.io/typing-svg)
+
 
 ---
 ### About Me :
