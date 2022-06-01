@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/iigcSmBaMUC5FoSUlu/giphy.gif" width="250"/>
   <div id="badges">
     <a href="https://t.me/ilya_zhbanov">
-      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="130" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" width="130" alt="Telegram Badge"/>
     </a>
     <a href="mailto:iamilyazhbanov@gmail.com">
       <img src="https://img.shields.io/badge/mail-white?logo=gmail&style=for-the-badge" width="113" alt="Mail Badge"/>
