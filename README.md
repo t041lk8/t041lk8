@@ -7,6 +7,7 @@
     <a href="mailto:iamilyazhbanov@gmail.com">
       <img src="https://img.shields.io/badge/mail-white?logo=gmail&style=for-the-badge" width="90" alt="Mail Badge"/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=t041lk8&label=PROFILE+VIEWS&style=for-the-badge" width="130" height="32"/>
   </div>
 </div>
 
