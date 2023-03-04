@@ -15,9 +15,11 @@
 <!--
 ![snake gif](https://github.com/t041lk8/t041lk8/blob/output/github-contribution-grid-snake.gif)
 -->
+<!--
 <div id="snake" align="center">
   <img src="https://github.com/t041lk8/t041lk8/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only"/>
 </div>
+-->
 
 ---
 ### About Me :
