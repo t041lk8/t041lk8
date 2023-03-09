@@ -22,12 +22,26 @@
 
 
 ---
-### About Me :
+### О себе :
 
-Hello! My name is Ilya. I am a novice data scientist. At the moment I'm studying machine learning and deep learning, a little backend. In my github you will find educational projects from the university and my small pet projects.
+Я начинающий разработчик в области машинного обучения, активно развиваюсь в направлении Data Science.
+
+Навыки:
+
+-построение классических ML моделей (классификация, регрессия, случайные леса, бустинг)
+
+-компьютерное зрение(классификация, сегментация, детекция)
+
+-поверхностные знания работы с аудио в ML
+
+-математическая статистика и методы оптимизации
+
+-деплой моделей(Docker, FastAPI, MLflow, Triton)
+
+-работа с базами данных и написание SQL запросов, использование ORM
 
 ---
-### Languages and Tools (some are just being studied) :
+### Стек :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title = "CPlusPlus" width="60" height="60"/>&nbsp;
